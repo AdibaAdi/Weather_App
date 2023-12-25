@@ -1,1 +1,3 @@
 # Weather_App
+
+I built this weather app using Python and the OpenWeather API to provide real-time weather information. By integrating Tkinter and ttkbootstrap, I crafted a user-friendly interface that allows users to enter a city name and receive detailed weather updates, including temperature, description, and an icon indicative of the current conditions. I utilized the `requests` library for API communication and PIL for image processing, ensuring that weather icons are displayed accurately. I also implemented error handling for instances like invalid city inputs, enhancing the app's reliability and user experience. My focus was to create an intuitive and informative application that simplifies accessing weather data.
